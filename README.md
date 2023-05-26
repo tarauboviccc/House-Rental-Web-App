@@ -4,6 +4,15 @@ My first Angular web application that lists houses for rent and displays detaile
 
 Note: I have learned to create this project by following the tutorial provided on the Angular official website - https://angular.io/tutorial/first-app.
 
+## Preview
+
+### Home Page
+
+![Home Page](assets/home-page.png)
+
+### House Details Page
+
+![House Details Page](assets/house-details.png)
 
 ## Features
 - Listing houses for rent: The app displays a list of available houses for rent, including their specific information.
