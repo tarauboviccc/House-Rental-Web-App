@@ -12,7 +12,7 @@ Note: I have learned to create this project by following the tutorial provided o
 
 ### House Details Page
 
-![House Details Page]('/assets/house-details.png')
+![House Details Page](/assets/house-details.png)
 
 ## Features
 - Listing houses for rent: The app displays a list of available houses for rent, including their specific information.
